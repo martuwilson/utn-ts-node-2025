@@ -8,6 +8,7 @@ import { crearNinja} from './ejercicios/ej07';
 import { run as runEj10 } from './ejercicios/ej10';
 import { run as runEj11 } from './ejercicios/ej11';
 import { run as runEj12 } from './ejercicios/ej12';
+import { run as runEj13 } from './ejercicios/ej13';
 
 console.log('========== Ejercicios ==========');
 //runEj01();
@@ -19,4 +20,5 @@ console.log('========== Ejercicios ==========');
 //crearNinja();
 //runEj10();
 //runEj11();
-runEj12();
+//runEj12();
+runEj13();
