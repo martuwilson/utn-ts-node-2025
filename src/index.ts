@@ -6,6 +6,7 @@ import { run as runEj05 } from './ejercicios/ej05';
 import { crearFruta } from './ejercicios/ej06';
 import { crearNinja} from './ejercicios/ej07';
 import { run as runEj10 } from './ejercicios/ej10';
+import { run as runEj11 } from './ejercicios/ej11';
 
 console.log('========== Ejercicios ==========');
 //runEj01();
@@ -15,4 +16,5 @@ console.log('========== Ejercicios ==========');
 //runEj05();
 //crearFruta();
 //crearNinja();
-runEj10();
+//runEj10();
+runEj11();
