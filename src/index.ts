@@ -10,6 +10,7 @@ import { run as runEj11 } from './ejercicios/ej11';
 import { run as runEj12 } from './ejercicios/ej12';
 import { run as runEj13 } from './ejercicios/ej13';
 import { run as runEj14 } from './ejercicios/ej14';
+import { run as runEj15 } from './ejercicios/ej15';
 
 console.log('========== Ejercicios ==========');
 //runEj01();
@@ -23,4 +24,5 @@ console.log('========== Ejercicios ==========');
 //runEj11();
 //runEj12();
 //runEj13();
-runEj14();
+//runEj14();
+runEj15();
